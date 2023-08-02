@@ -6,7 +6,7 @@ Discover Global Sales Dynamics: Dive into our Power BI dashboard for invaluable 
 
 <img width="602" alt="image" src="https://github.com/Tejas7592/Global_Superstore_Odyssey-Navigating_Sales_Seas_with_Power_BI/assets/127444229/f6d4fbe4-57e2-420a-94af-c865c7d1ad79">
 
-Key Features:
+# Key Features:
 
 Geographical Analysis: Gain a deeper understanding of sales distribution across countries, regions, cities, and states. Visualize sales concentration and expansion areas at a glance.
 
